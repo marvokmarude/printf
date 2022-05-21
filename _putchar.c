@@ -38,3 +38,4 @@ int _puts(char *str)
 		_putchar(*str++);
 	return (str - count);
 }
+
